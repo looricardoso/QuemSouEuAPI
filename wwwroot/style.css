@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+body {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Concert One', cursive;
+    font-size: 1.7em;
+}
+
+#aprenderDevWeb {
+    font-size: smaller;
+}
+
+img {
+    width: 250px;
+}
+
+#aprenda {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    transform: translateY(150px);
+    background-color: silver;
+    border-radius: 15px;
+    padding: 25px;
+}
